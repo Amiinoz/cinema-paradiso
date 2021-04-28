@@ -20,7 +20,7 @@ Build Netflix clone
 
 ## Front-end
 * [] Jumbotron
-* []
+* [] Global styles
 * []
 
 
